@@ -1,0 +1,114 @@
+What is predictive safety in ports and maritime?
+Predictive safety in ports uses historical and current operational data to identify patterns associated with elevated risk and help teams prioritise preventive action. It draws on information such as inspections, near misses, permits, equipment findings and corrective actions.
+
+The aim is to recognise developing concerns early enough to investigate and intervene. It does not mean forecasting every incident or knowing exactly when an accident will occur.
+
+A useful output should tell a supervisor what needs attention, which evidence supports the concern and what review is required next.
+
+Prediction, detection and rules: three different jobs
+Not every automated safety alert is a prediction. Understanding the difference helps port operators evaluate software more carefully.
+
+Function	Port example	What it tells you
+Rules-based alert	A permit has passed its expiry time.	A defined condition has been met.
+Detection	A camera identifies a person inside a monitored exclusion zone.	A condition may be present now and needs validation.
+Predictive analysis	Repeated location-specific findings and unresolved actions indicate increasing concern.	A pattern may warrant earlier intervention.
+All three can be useful. Predictive analysis adds a further perspective; it does not replace mandatory checks or justify waiting when a known hazard requires action.
+
+Which data makes predictive safety useful?
+Start with records that describe real work and its controls:
+
+Near misses and observations: what happened, where, during which activity and under what conditions.
+Inspection findings: defects, repeat issues and the status of required follow-up.
+Permit-to-work records: task, location, duration, authorisation and outstanding verifications.
+Corrective actions: ownership, due dates, evidence of completion and effectiveness reviews.
+Operational context: relevant activity volumes, equipment use and changes to work arrangements.
+Where suitable integrations exist, sensor or camera information may add context. However, more data does not automatically produce better decisions. Records must be timely, consistently labelled and relevant to the question being asked.
+
+For example, “Berth 2,” “B2” and “North Berth” should not describe the same location as three unrelated places. Duplicate reports also need to be recognised so they do not inflate the apparent frequency of a concern.
+
+Three practical applications in port operations
+The following scenarios are illustrative workflows, not measured customer outcomes or promises of standard configuration.
+
+1. Identify recurring vehicle–pedestrian concerns
+Imagine a terminal receiving several reports about visibility near a warehouse junction. Different workers describe a blind corner, unclear pedestrian routing and temporary obstructions.
+
+AI-assisted text analysis can help group related descriptions for review. Combined with location and activity information, the pattern may help a supervisor decide where to inspect first.
+
+The useful result is a verified response to the concern: checking the arrangement, assigning corrective work and confirming whether the issue recurs.
+
+2. Bring repeated equipment findings into view
+An inspection may be completed on time while the same defect continues to appear. A dashboard showing only inspection completion could miss that distinction.
+
+Connecting findings to a consistent equipment identifier helps teams review recurrence, open actions and repair history where available. This can inform an earlier assessment by competent maintenance and operations personnel.
+
+It is important to separate EHS risk analysis from engineering failure prediction. Predicting a component’s failure requires appropriate equipment data and a validated maintenance model; an EHS trend alone does not establish it.
+
+3. Examine overlapping work and control gaps
+At a busy berth, maintenance work may continue while cargo activities change. Permit records, work locations and shift handovers can help coordinators understand these overlaps.
+
+NeoEHS Permit to Work software supports digital work-authorisation workflows, including approvals, isolation verification and closure. Reviewing permit information alongside repeated exceptions can help identify work areas requiring closer attention.
+
+A potential conflict still requires competent review of the actual conditions. An automated recommendation should not independently authorise hazardous work.
+
+What should happen after an alert?
+An alert is only the beginning. A workable process connects the finding to a responsible person and a documented response:
+
+Show the evidence. Include the relevant records, location, timestamps and reason for the alert.
+Assign the review. Route it to someone with the authority and competence to assess the activity.
+Check current conditions. Establish whether the concern remains valid and whether immediate controls are needed.
+Record the decision. Document the response, owner and follow-up requirements.
+Verify effectiveness. Check whether the action addressed the concern and feed the result into future reviews.
+Teams should be able to explain why an alert was accepted, escalated or dismissed. That feedback is valuable for improving both the workflow and the analysis.
+
+How NeoEHS supports predictive port safety
+NeoEHS Predictive Analytics is designed to connect EHS information, identify recurring patterns and support risk prioritisation. Its published offering includes analysis of incidents, observations, inspections, permits and corrective actions.
+
+The wider NeoEHS Ports & Maritime solution brings together maritime safety workflows such as inspections, permits, incident reporting, audits and contractor safety.
+
+For a practical implementation, a port can connect incident and near-miss management with digital inspection records and risk assessments. Required modules, integrations and predictive functions should be confirmed against the port’s specific use cases.
+
+The operational goal is straightforward: make emerging concerns easier to see, review and address.
+
+Measure usefulness, not just the number of alerts
+A system generating hundreds of warnings may create more work without improving decisions. Evaluate whether the information is timely and actionable.
+
+Useful-alert rate: how many reviewed alerts led to a substantiated concern or meaningful intervention?
+False-alert burden: how much time do teams spend reviewing warnings that do not require action?
+Lead time: does the alert arrive early enough to influence the relevant work?
+Missed concerns: what significant findings were identified through other channels but not highlighted by the system?
+Repeat findings: does the same issue continue after corrective action?
+Response quality: are decisions and effectiveness checks supported by evidence?
+Interpret trends alongside exposure and reporting practices. More near-miss reports can indicate greater participation. Fewer reports can reflect under-reporting. Neither trend should be interpreted in isolation.
+
+Build trust before scaling up
+Begin with one clear question, such as: “Which recurring terminal findings need attention before the next shift?” Agree the data sources, the review owner and what a useful result would look like.
+
+Pilot the analysis alongside existing controls. Evaluate it on later records that were not used to develop the model, and use only information that would have been available when the prediction was made. Otherwise, hindsight can make performance look better than it really is.
+
+Review how results change across terminals, activities and reporting cultures. A model that performs well in one setting may need adjustment elsewhere. Keep worker information appropriately protected and give users a way to challenge misleading outputs.
+
+The ILO Code of practice on safety and health in ports provides a broader safety-management reference. Predictive tools should operate within the port’s established safety arrangements and applicable requirements.
+
+Frequently asked questions
+Can AI prevent every port incident?
+No. AI can help identify patterns and support earlier intervention, but it cannot guarantee incident prevention. Outcomes depend on data quality, competent decisions and effective controls.
+
+Do ports need years of accident data to start?
+Not necessarily. Ports can begin with structured inspections, observations and action tracking. The data needed for a predictive model depends on the use case, event frequency and required validation. There is no universal minimum that makes every model reliable.
+
+Are cameras and IoT sensors essential?
+No. Existing EHS records can support useful trend analysis. Cameras and sensors should be added where they answer a defined operational need and their performance can be tested.
+
+Does a low risk score mean work is safe?
+No. A score is a decision-support indicator, not a clearance to proceed. Missing data or unfamiliar conditions may limit its usefulness. Required inspections, permits and field checks still apply.
+
+How should a port assess NeoEHS predictive safety capabilities?
+Use representative port records in a scoped demonstration or pilot. Review the supporting evidence behind alerts, available integrations, response workflows and performance against agreed measures.
+
+Give your team more time to act
+The value of predictive safety is the opportunity it creates: time to inspect a concern, coordinate work, strengthen a control or resolve a repeated issue before exposure continues.
+
+Explore how NeoEHS can connect your port’s safety information with earlier, better-informed action.
+
+Explore NeoEHS for Ports & Maritime · Discover NeoEHS Predictive Analytics
+Email: info@neoehs.com · www.neoehs.com
