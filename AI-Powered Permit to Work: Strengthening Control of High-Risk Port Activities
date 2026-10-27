@@ -1,0 +1,116 @@
+What is AI-powered permit to work?
+AI-powered permit to work combines digital work-authorisation workflows with AI-assisted analysis to support the planning, review and oversight of hazardous activities. It can help reviewers examine task descriptions, associated risks and related records while keeping approval responsibility with authorised personnel.
+
+A permit defines the authorised work and its boundaries. AI may assist the review, but it cannot establish that a physical isolation has been applied or that actual site conditions are safe simply because a form is complete.
+
+The UK Health and Safety Executive describes permits as a formal means of communication and coordination. Its guidance also stresses that a permit does not replace a robust risk assessment or, by itself, make work safe. See HSE guidance on permit-to-work systems.
+
+Why port activities need coordinated permit control
+A port is a shared operating environment. Maintenance, vessel activities, cargo handling and contractor work can affect one another even when they have different supervisors.
+
+A maintenance task described as “at the conveyor” is not precise enough if several conveyors serve different berths. Likewise, a permit’s validity period may not reveal that the surrounding operating arrangement has changed.
+
+Useful digital records identify the asset, location, task boundary, responsible team and related work. Clear identification gives both people and software a better basis for checking whether activities interact.
+
+Where AI adds value—and where fixed checks belong
+Some permit checks are straightforward rules. Missing mandatory information, an expired approval or an incomplete sign-off should be identified through explicit workflow controls.
+
+AI is more relevant where interpretation is needed: comparing differently worded job descriptions, surfacing relevant previous findings or helping reviewers identify possible inconsistencies between a task and its supporting information.
+
+Review need	Suitable support	Human responsibility
+Missing required approval	Configured workflow rule	Resolve the gap before authorisation.
+Vague or inconsistent task description	AI-assisted language review	Confirm the actual scope and location.
+Potentially interacting jobs	Location/time rules plus contextual analysis	Review interactions and coordinate work.
+Repeated findings from similar activities	Search, trend analysis and AI-assisted retrieval	Assess relevance to the current job.
+These are useful evaluation scenarios, not a claim that every installation includes every function. The configured workflow, available data and integrations determine what a particular deployment can support.
+
+High-risk port activities: what should reviewers be able to see?
+The following examples illustrate information that may support review. They are not complete work procedures or substitutes for site-specific requirements.
+
+Hot work: the defined work area, relevant surrounding operations, required precautions and assigned responsibilities.
+Confined-space work: the identified space, applicable assessment, required verification records and emergency arrangements.
+Maintenance requiring isolation: the correct asset, associated isolation documentation and authorised verification.
+Lifting and work at height: the work boundary, relevant plan, access arrangements and nearby activities.
+Work near hazardous substances: the material or system involved, task-specific assessment and coordination requirements.
+Connecting these records to risk assessment workflows helps keep the permit review focused on the actual job rather than a generic checklist.
+
+SIMOPS: looking beyond an individual permit
+Simultaneous operations, or SIMOPS, are activities taking place at the same time that may interact. A permit can be well prepared on its own while still creating a coordination issue alongside another job.
+
+Consider an illustrative berth scenario: a maintenance team plans hot work while another team changes cargo-handling arrangements nearby. A shared view of work locations and timing can prompt the coordinators to examine the interaction before work proceeds.
+
+The review may lead to revised sequencing, additional controls or postponement. The decision depends on the actual conditions and the people authorised to assess them.
+
+Software should show why a potential interaction was flagged. A coloured marker without the related permits or supporting context is difficult to evaluate.
+
+Approval is a stage, not the end of the process
+A practical digital permit design needs distinct states with clear meanings. “Draft,” “under review,” “authorised,” “suspended” and “closed” should not be interchangeable labels.
+
+It should also be possible to distinguish when someone recorded a change from when the change actually took effect. That matters when a field update is entered later or connectivity interrupts communication.
+
+Five questions help assess the design:
+
+Can the work team identify the current authorised version?
+Can reviewers see what changed and who changed it?
+Does a significant change trigger the required reassessment?
+Are related teams notified through an agreed, acknowledged process?
+Can a suspended permit be prevented from appearing active?
+If work conditions no longer match the authorisation, teams should follow the site’s stop-work, suspension and revalidation process. AI output should not be used to bypass it.
+
+Make handover and closure unambiguous
+When responsibility changes, the incoming team needs to know the actual work status, outstanding concerns and controls that remain in place. A timestamp alone cannot communicate that picture.
+
+HSE guidance highlights clear shift communication and arrangements for handing equipment back after work. A digital record can support those conversations, while the responsible people confirm understanding.
+
+Closure should also distinguish completed work from permission to restore an asset to service. Related work, outstanding restrictions and separate reinstatement authorisations must be handled according to the site’s procedures.
+
+Relevant inspection findings and verification records can provide supporting evidence. An uploaded photograph may help document a check; it does not automatically prove that every required control was effective.
+
+How NeoEHS supports port permit management
+NeoEHS Permit to Work software supports configurable permit creation, approval workflows, isolation verification records, contractor authorisation and permit closure. Its published offering includes mobile access, live permit visibility, alerts and intelligent safety checks.
+
+The broader NeoEHS Ports & Maritime solution connects permit management with inspections, incidents, audits and contractor safety.
+
+For a port operator, a useful demonstration should follow one representative job from request to closure, including a change of conditions and a shift handover. Confirm which controls are standard, which need configuration and which depend on external systems or field verification.
+
+Measure control quality as well as processing time
+Faster approval can reduce administrative delay, but it does not demonstrate safer work on its own. Consider measures that reveal whether the process is functioning:
+
+Permits returned because the scope or evidence was incomplete.
+Changes requiring reassessment that received the necessary review.
+Handover records with acknowledged responsibility.
+Repeated permit exceptions by activity or location.
+Closure records awaiting required verification.
+AI suggestions accepted, rejected or corrected after review.
+Define each measure clearly. A rise in permits returned for correction may initially reflect more effective scrutiny rather than worsening preparation. Review the underlying cases before drawing conclusions.
+
+Start with a controlled pilot
+Choose a representative activity and involve the people who request, review, issue and receive permits. Test ordinary work alongside difficult cases: changed scope, overlapping activity, an unavailable approver, interrupted connectivity and unfinished work at shift change.
+
+For AI-assisted functions, inspect the evidence behind suggestions and record missed issues as well as unnecessary alerts. Agree access permissions, audit records and fallback arrangements before expanding the rollout.
+
+The aim is a process the team can understand and use reliably under operational pressure.
+
+Frequently asked questions
+What is the difference between digital PTW and AI-powered PTW?
+Digital PTW manages forms, approvals, status and records electronically. AI-assisted PTW adds analysis that may help interpret task information and identify patterns or inconsistencies. Fixed workflow rules remain important in both.
+
+Can AI approve a high-risk work permit?
+AI recommendations should not replace the authorised person’s decision or required field checks. Approval must follow the organisation’s defined responsibilities and procedures.
+
+Can one permit cover several interacting jobs?
+That depends on the site’s permit rules and how the work is defined. Interdependent activities require explicit coordination; combining records for convenience must not obscure ownership or controls.
+
+Does software guarantee compliance?
+No. Software can support documentation and workflow consistency. Compliance depends on applicable requirements, competent people and how work is actually controlled.
+
+Where should a port begin with NeoEHS?
+Map the current permit lifecycle, select a representative use case and demonstrate the required approvals, change handling, handover and closure. Confirm the scope before deployment.
+
+Keep every permit connected to the work
+A stronger permit process gives the work team clarity about what is authorised, the reviewer access to relevant evidence and the next shift a reliable picture of what remains outstanding.
+
+Explore how NeoEHS can support the control and coordination of high-risk port activities.
+
+Explore NeoEHS Permit to Work · NeoEHS for Ports & Maritime
+info@neoehs.com · www.neoehs.com
