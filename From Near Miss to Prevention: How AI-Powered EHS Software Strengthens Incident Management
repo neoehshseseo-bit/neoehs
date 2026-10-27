@@ -1,0 +1,163 @@
+What Is a Near Miss?
+A near miss is an unplanned event that causes no harm but could have caused injury, illness, damage or loss under slightly different circumstances.
+
+A hazard and a near miss are related, but they describe different things. An obstructed walkway is a hazardous condition. Someone tripping over the obstruction without being injured is a near miss.
+
+Recording both helps teams understand where exposure exists and where an event has already occurred.
+
+What Is AI-Powered Incident Management?
+AI-powered incident management combines digital reporting and investigation workflows with tools that help analyse information, identify similarities between events and suggest areas for further review.
+
+Workflow automation assigns tasks, sends reminders and routes approvals. AI assistance can help interpret unstructured information or identify patterns across records.
+
+Both are useful. Neither removes the need for competent investigation, reliable evidence and accountable decision-making.
+
+Why Near-Miss Reports Need Follow-Up
+A report sitting in a spreadsheet has limited value if nobody reviews it or acts on its findings.
+
+Common gaps include incomplete event descriptions, unclear ownership, investigations that stop too early and actions marked complete without checking their effectiveness.
+
+The US Occupational Safety and Health Administration encourages investigation of close calls as well as harmful incidents, with attention to underlying causes and worker participation. This is a useful investigation principle for organisations globally, rather than a statement that US reporting rules apply everywhere.
+
+A practical way to review your own process is to select a recent near miss and ask:
+
+Can we follow the record from the first report to evidence that the risk was addressed?
+
+How NeoEHS Supports the Incident Management Process
+NeoEHS Incident Management Software supports digital reporting, investigation workflows, root-cause analysis, corrective-action tracking and incident analytics. Its published capabilities include mobile and web access, configurable forms, notifications and analysis of recurring events.
+
+These capabilities support a connected process:
+
+Report → Review → Investigate → Act → Verify → Share learning
+
+Each stage needs a clear purpose.
+
+1. Capture the Event While Details Are Fresh
+The first report should establish what happened, where it happened, the task underway and any immediate response. Photographs or supporting records can help when they are safe and appropriate to collect.
+
+Keep the initial form manageable. A worker reporting a close call should not have to complete an investigator’s entire questionnaire.
+
+Immediate assistance and control of an ongoing danger take priority over entering information into software.
+
+2. Review Potential Consequences
+An event without injury may still involve serious exposure.
+
+Review both the actual outcome and what could reasonably have happened. A dropped object beside an occupied work area, for example, needs attention even if it caused no damage.
+
+Decide who should review the event, what specialist input is needed and whether temporary controls are sufficient while investigation continues.
+
+AI-generated classifications can assist that review. A responsible person should confirm the priority using the evidence and operating context.
+
+3. Investigate Beyond the First Explanation
+“Worker error” rarely provides enough detail to guide effective improvement.
+
+Examine the equipment, instructions, workspace, supervision and conditions surrounding the task. Ask whether the procedure was practical and whether the team had suitable tools, time and information.
+
+OSHA’s investigation guidance emphasises looking beyond immediate causes and examining the circumstances that allowed an event to occur.
+
+NeoEHS describes support for structured methods including 5 Why, Fishbone and Fault Tree Analysis. These tools help organise an investigation; the conclusions still need to be supported by evidence.
+
+4. Assign Actions That Address the Findings
+An action should explain what will change, who owns it and when it is due.
+
+Compare these two entries:
+
+“Remind employees to be careful.”
+
+“Restore the designated pedestrian route, review the storage arrangement and verify that the route remains accessible during peak operations.”
+
+The second provides something concrete to implement and check.
+
+NeoEHS supports action assignment, progress tracking and escalation, helping teams maintain visibility over outstanding work.
+
+5. Verify Before Closing
+Completion and effectiveness are different questions.
+
+A photograph may show that a barrier was installed. A follow-up observation can establish whether people and vehicles remain separated during normal work.
+
+Agree on the evidence needed for closure and, where appropriate, schedule a later effectiveness review. If the same issue returns, revisit the original finding and the action selected.
+
+Where AI Can Add Practical Value
+AI assistance is particularly useful when information is spread across large numbers of reports.
+
+It can help reviewers explore whether differently worded observations describe similar events, locate potentially related records and identify patterns that deserve closer examination.
+
+For example, reports describing “restricted access,” “materials across the walkway” and “pedestrians using the vehicle lane” may concern a common layout problem.
+
+That relationship is a hypothesis to investigate. It becomes useful only when someone checks the location, the records and the circumstances.
+
+Treat predictive scores in the same way: as signals requiring interpretation. A model trained on incomplete reporting may overlook risks that workers have never recorded.
+
+An Illustrative Example: A Loading-Bay Near Miss
+A worker steps around stored pallets and enters a forklift route. The driver brakes before contact.
+
+The immediate response addresses the exposure. The investigation then examines why the worker left the pedestrian route.
+
+The team discovers that temporary deliveries regularly occupy the walkway during a shift change. Earlier reports described the same area using different terms, so the pattern was difficult to recognise.
+
+Potential actions include changing delivery staging, restoring the route and reviewing the layout with the people who use it. A follow-up check during the busy period tests whether the revised arrangement works.
+
+This is an illustrative scenario, not a reported NeoEHS customer result. It shows how connected information can support a more useful investigation.
+
+Practical Applications Across Industries
+Industry	Illustrative event	Questions for follow-up
+Manufacturing	A worker narrowly avoids moving machinery during a jam-clearing task	Were access, isolation and task instructions suitable?
+Construction	A dropped tool lands beside a work area	Were exclusion arrangements and tool controls effective?
+Ports and maritime	A pedestrian and terminal vehicle come close to contact	How are routes, visibility and operational changes managed?
+Power and energy	A maintenance team identifies an unexpected energy source before work	Were isolation information and verification arrangements adequate?
+Metro and rail	A maintenance team encounters conflicting access instructions	How were work boundaries and communications confirmed?
+Mining	Mobile equipment approaches an occupied work zone unexpectedly	Were access controls and operator communications effective?
+These examples provide starting points for investigation. The appropriate controls depend on the task and site conditions.
+
+Measure Learning Alongside Closure
+A dashboard should help managers decide what needs attention.
+
+Useful measures include:
+
+Time from reporting to initial review.
+
+High-priority actions that are overdue.
+
+Actions awaiting effectiveness verification.
+
+Repeated findings after previous closure.
+
+Reports requiring additional information.
+
+Lessons reviewed by other relevant sites.
+
+Avoid judging performance by report counts alone. An increase in near-miss reporting may reflect greater willingness to speak up. Compare reporting participation, work activity and the nature of the events before drawing conclusions.
+
+Connect Incident Learning With Wider EHS Work
+Findings should inform the processes that shape everyday operations.
+
+An investigation may reveal a need to revisit a risk assessment, inspection question, training activity or permit arrangement.
+
+The NeoEHS EHS Management System brings incident management together with risk assessments, inspections, audits, training and other EHS activities. It also supports configurable workflows and multi-site management.
+
+For organisations operating internationally, define common internal reporting principles and configure local requirements with the relevant teams. Internal incident recording and notification to an authority are separate responsibilities; a software record alone does not establish regulatory compliance.
+
+Frequently Asked Questions
+Can AI prevent workplace incidents?
+AI can support prevention by helping teams identify patterns and prioritise further review. Outcomes depend on data quality, competent decisions and effective controls. AI cannot guarantee that an incident will not occur.
+
+What information should a near-miss report contain?
+Include the location, date and time, task underway, event description, potential consequences and immediate action. Add supporting evidence where safe and appropriate.
+
+Does every near miss require the same investigation?
+Every report deserves review. The depth of investigation should reflect its potential consequences, recurrence and circumstances, alongside applicable organisational and local requirements.
+
+What is the difference between closing an action and verifying it?
+Closing an action records that the assigned work is complete. Verification checks whether the change addresses the identified problem and remains effective in practice.
+
+How does NeoEHS support near-miss management?
+NeoEHS connects reporting with structured investigations, action tracking and analytics, helping teams follow events through review and resolution.
+
+Make the Next Report Count
+A useful incident management process gives people confidence that their concerns will receive attention.
+
+Acknowledge the report. Investigate fairly. Assign meaningful actions. Check the outcome. Share what changed.
+
+Explore NeoEHS Incident Management Software to discuss a workflow suited to your operations.
+
+Email: info@neoehs.com
