@@ -1,0 +1,281 @@
+How to identify hazards, evaluate risks and control high-risk activities throughout metro construction and railway infrastructure projects.
+What are HIRA, HIRARC, JSA and JHA?
+HIRA (Hazard Identification and Risk Assessment) is a structured process for identifying workplace hazards and evaluating the risks they present.
+
+HIRARC (Hazard Identification, Risk Assessment and Risk Control) explicitly includes the selection and implementation of risk controls. It is particularly familiar in Malaysian occupational safety practice.
+
+JSA (Job Safety Analysis) examines a particular job by breaking it into steps, identifying hazards at each step and defining precautions.
+
+JHA (Job Hazard Analysis) is closely related to JSA. Many organizations use the terms interchangeably, although individual company procedures may distinguish them.
+
+For metro projects, these methods work best as connected parts of one risk management process rather than separate paperwork exercises.
+
+HIRA: Understanding the wider risks of metro construction
+HIRA helps project teams recognize hazards associated with construction areas, work packages, equipment and operational interfaces.
+
+For example, consider an elevated metro viaduct construction project.
+
+The project HIRA may identify hazards associated with:
+
+Working at height on piers and launching girders.
+
+Heavy lifting and suspended loads.
+
+Temporary works and structural stability.
+
+Mobile cranes and construction vehicles.
+
+Electrical installations and temporary power.
+
+Working above public roads and pedestrian areas.
+
+Falling objects and material handling.
+
+Adverse weather affecting lifting and elevated work.
+
+Simultaneous activities involving several contractors.
+
+Each identified hazard is assessed according to the project's approved risk methodology.
+
+Many organizations use a likelihood-and-severity matrix, but there is no single universal scoring scale. Risk criteria, acceptance thresholds and approval requirements must follow the applicable project procedures.
+
+A well-prepared HIRA should identify the people exposed, credible consequences, existing safeguards, additional controls, responsible persons and review triggers.
+
+Example: Elevated station construction
+During station construction, workers may operate near unprotected edges while lifting formwork.
+
+The assessment should consider falls, dropped objects, equipment movement, structural stability and the exposure of people below.
+
+Controls may include engineered edge protection, approved lifting arrangements, exclusion zones, inspected temporary works, suitable access systems and competent supervision.
+
+The assessment must also consider whether the controls can actually be implemented under current site conditions.
+
+HIRARC: Moving from risk identification to effective control
+HIRARC makes the risk control stage explicit.
+
+The process is commonly presented as three connected activities:
+
+Identify hazards.
+
+Assess the associated risks.
+
+Determine and implement suitable controls.
+
+For metro projects, this approach is useful because hazards often change as construction progresses.
+
+Consider excavation work for an underground metro station.
+
+Potential hazards include ground collapse, groundwater ingress, buried utilities, moving plant, restricted access, poor ventilation and interaction with adjacent structures.
+
+A HIRARC process should evaluate these hazards and establish appropriate controls.
+
+Possible controls include engineered excavation support, utility identification and protection, groundwater management, safe access arrangements, monitoring, equipment segregation and emergency preparedness.
+
+Controls should follow the hierarchy of controls wherever practicable. Engineering and elimination measures should take priority over reliance on PPE alone.
+
+Why HIRARC is especially relevant in Malaysia
+Malaysia's Department of Occupational Safety and Health (DOSH) has published guidance on Hazard Identification, Risk Assessment and Risk Control.
+
+For Malaysian rail and metro projects, HIRARC terminology may therefore be particularly familiar to contractors and safety professionals.
+
+However, project teams should always confirm the latest applicable legal requirements, contract specifications and approved risk assessment procedures. A guidance document should not automatically be treated as a standalone statutory requirement for every activity.
+
+JSA: Managing the risks of a specific job
+While HIRA may cover a wider construction area or activity, JSA focuses on how a particular job will be performed.
+
+The work is divided into logical steps, and the hazards and necessary precautions are considered for each step.
+
+For example, a JSA for installing a precast segment on an elevated metro structure might include:
+
+Job step	Potential hazard	Example control
+Prepare work area	Unauthorized access and conflicting activities	Barricades, access control and coordination
+Inspect lifting equipment	Defective rigging or lifting accessories	Pre-use inspection and verified certification
+Position lifting equipment	Unstable ground or inadequate setup	Approved lifting plan and verified support conditions
+Lift and move segment	Suspended load or collision	Controlled lifting zone, competent lifting team and communication
+Position segment	Crushing and pinch points	Safe positioning arrangements and exclusion from danger zones
+Complete installation	Premature release or instability	Verify secure installation before releasing lifting equipment
+This table is illustrative. It is not a substitute for an approved engineering method statement, lifting plan or site-specific assessment.
+
+A JSA becomes particularly valuable during pre-task briefings because it helps supervisors and workers understand the sequence of work and the precautions expected at each stage.
+
+JHA: Understanding job-specific hazards
+JHA is another method of examining the hazards associated with a task.
+
+In many organizations, JHA and JSA mean substantially the same thing.
+
+The important issue is not which acronym appears on the form. It is whether the assessment accurately describes the job, identifies credible hazards and establishes effective precautions.
+
+Consider a metro maintenance activity involving work near energized electrical equipment.
+
+The JHA or JSA should address electrical exposure, isolation requirements, access restrictions, competent personnel, testing arrangements, stored energy and emergency procedures.
+
+The exact precautions depend on the electrical system, applicable standards and the approved work method.
+
+Organizations should avoid requiring duplicate JSA and JHA documents that contain essentially the same information without adding meaningful risk control.
+
+HIRA vs HIRARC vs JSA vs JHA: Key differences
+Method	Primary focus	Typical metro application
+HIRA	Identify hazards and assess risks	Project, area, system or activity-level assessment
+HIRARC	Identify hazards, assess risks and establish controls	Structured risk management for construction activities
+JSA	Analyze the steps of a specific job	Lifting, installation, maintenance or other defined tasks
+JHA	Analyze job-related hazards and precautions	Task-specific assessment, often equivalent to JSA
+These are practical distinctions rather than universal regulatory definitions. An employer's approved methodology may combine several of these functions within one assessment.
+
+Where risk assessments are most important in metro projects
+1. Underground excavation and tunnelling
+Underground work may involve ground instability, water ingress, confined or restricted spaces, moving equipment, ventilation challenges and complex emergency access.
+
+Risk assessments should consider geological information, ground support, monitoring, equipment interfaces, emergency arrangements and changes in excavation conditions.
+
+2. Elevated viaduct and bridge construction
+Key concerns include working at height, lifting operations, temporary works, structural stability and dropped objects.
+
+Assessments must address both workers on the structure and people or vehicles beneath it.
+
+3. Track installation
+Track installation involves heavy materials, mechanical handling, alignment work, powered tools, moving equipment and, in some cases, interaction with existing railway operations.
+
+The assessment should consider access arrangements, lifting methods, equipment segregation and any operational railway restrictions.
+
+4. Electrical and signalling systems
+Installation, testing and commissioning can introduce electrical hazards, unexpected energization, stored energy and conflicting activities.
+
+Risk controls should address isolation, authorization, testing procedures, competent personnel and coordination between contractors.
+
+5. Station construction
+Station projects often involve multiple contractors working simultaneously in limited spaces.
+
+Interface risks may arise between civil, mechanical, electrical, architectural and finishing activities.
+
+A risk assessment that ignores simultaneous operations can miss hazards created by another team's work.
+
+6. Testing and commissioning
+Testing introduces a different risk profile from construction.
+
+Train movement, energized systems, restricted access, incomplete interfaces and changes in operating conditions require carefully coordinated assessments and authorization.
+
+Why metro project risk assessments sometimes fail
+The problem is often not the absence of documentation.
+
+A project may have hundreds of approved risk assessment forms while important hazards remain uncontrolled.
+
+Common weaknesses include:
+
+Generic assessments: Documents copied from earlier projects without accounting for the actual site.
+
+Outdated information: Assessments are not revised after design, equipment or work-sequence changes.
+
+Poor contractor coordination: Different contractors assess their own tasks without considering shared work areas.
+
+Disconnected permits: A permit may be approved without verifying that its associated assessment reflects current conditions.
+
+Weak worker participation: Workers receive instructions but are not encouraged to identify missing hazards.
+
+Incomplete corrective actions: Findings are recorded without ensuring that corrective measures have been completed and verified.
+
+Inadequate field verification: Controls look appropriate on paper but are not implemented at the worksite.
+
+These weaknesses are particularly serious in metro projects because activities, access arrangements and contractor interfaces change frequently.
+
+How digital risk assessment improves metro project safety
+Digital systems can help teams maintain a connected record of hazards, controls, approvals, inspections and corrective actions.
+
+Instead of storing risk assessments in isolated spreadsheets and documents, a connected platform can link them to relevant work activities.
+
+A practical digital workflow may include:
+
+Register the project, location and activity.
+
+Select an approved risk assessment template.
+
+Identify hazards and affected personnel.
+
+Evaluate risks using the approved project matrix.
+
+Define controls and responsible persons.
+
+Route the assessment for appropriate review and approval.
+
+Link the assessment to the relevant permit or work package.
+
+Verify critical controls before work begins.
+
+Record inspections, observations and corrective actions.
+
+Review the assessment when conditions change.
+
+Digitalization alone does not make a risk assessment effective. The underlying method, site verification and competence of the people involved remain essential.
+
+How AI can support risk assessment for metro projects
+AI can help safety teams review information and identify patterns that may be difficult to recognize through manual processes alone.
+
+Potential applications include:
+
+Identifying recurring hazards
+AI-assisted analysis can highlight repeated inspection findings, incidents and observations associated with particular work activities or locations.
+
+Supporting hazard identification
+Based on available project data and approved knowledge sources, AI may suggest hazards that assessors should consider.
+
+These suggestions require review by competent personnel.
+
+Recognizing changes in risk patterns
+Analysis of historical findings, work activity and operational data may help identify areas needing closer attention.
+
+Such outputs are decision-support information, not proof that an accident will occur.
+
+Improving document review
+AI-assisted tools may help identify incomplete fields, inconsistent terminology or missing links between assessments and work permits.
+
+Supporting corrective-action prioritization
+A connected system can help teams identify overdue actions and recurring findings requiring management attention.
+
+AI-generated recommendations should never replace engineering judgment, statutory requirements, competent supervision or site-specific verification.
+
+How NeoEHS supports connected risk management
+NeoEHS is an AI-powered Environment, Health and Safety software platform designed to help organizations digitize and connect EHS workflows.
+
+For metro and railway projects, a connected approach can bring risk assessments together with related processes such as:
+
+Hazard identification and risk management.
+
+Permit to Work.
+
+Safety inspections and observations.
+
+Incident and near-miss management.
+
+Audits and corrective actions.
+
+Contractor safety management.
+
+Training and competency records.
+
+EHS dashboards and reporting.
+
+The objective is to make risk information more accessible, traceable and useful throughout the work lifecycle.
+
+For example, a risk assessment identifying lifting hazards should inform the relevant permit, pre-work checks and inspection requirements.
+
+If a critical control is missing, the finding should be visible to the responsible team and handled through the appropriate corrective-action process.
+
+This is where integrated EHS management can provide greater value than disconnected risk assessment forms.
+
+Explore NeoEHS to understand the platform and its EHS management capabilities.
+
+Best practices for implementing risk assessments in metro projects
+Use a consistent methodology. Establish approved risk criteria, templates, review responsibilities and acceptance requirements.
+
+Assess the actual work. Base assessments on site conditions, engineering documents and the planned work method.
+
+Involve the workforce. Supervisors, contractors and workers should contribute relevant practical knowledge.
+
+Connect assessments to permits. High-risk work should not proceed solely because a document has been completed.
+
+Review changes before execution. Changes in design, location, personnel, equipment or work sequence should trigger appropriate reassessment.
+
+Verify controls at the site. Ensure critical precautions are implemented and remain effective.
+
+Track findings to closure. Assign corrective actions, monitor progress and verify completion.
+
+Use AI responsibly. Treat AI-generated insights as supporting information requiring competent human review.
