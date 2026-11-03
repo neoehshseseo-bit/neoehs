@@ -1,0 +1,181 @@
+How does digital EHS connect the control room and the field?
+Digital EHS connects power plant control-room and field teams through shared, time-stamped records of permits, inspections, observations and actions. It helps authorised personnel communicate changing conditions, assign responsibility and track follow-up. Effective implementation also requires clear acknowledgement, visible data freshness and established communication procedures.
+The objective is a dependable flow of information between the people planning work, those carrying it out and those responsible for oversight.
+
+Different views of the same working environment
+The control room provides visibility into plant operating conditions. Field personnel add information that may not be apparent on a process display: an obstructed access route, an unexpected work-area condition or a contractor activity nearby.
+
+Maintenance supervisors bring another perspective, including task requirements and equipment history. EHS teams help review hazards, controls and outstanding concerns.
+
+These views become more useful when they share a common reference.
+
+A report stating “issue near the pump” leaves room for confusion. A record linked to the correct equipment identifier, location, activity and observation time gives the recipient a clearer starting point.
+
+The UK Health and Safety Executive’s guidance on safety-critical communication highlights the importance of identifying who needs information, selecting suitable communication methods and providing information at the right time.
+
+Five connections that matter in daily operations
+1. Connect work authorisation with current field conditions
+A permit records the conditions and authorisations associated with a defined activity. Its usefulness depends on people understanding its scope and current status.
+
+Digital workflows can make it easier to see whether work is awaiting review, authorised, suspended or completed, where those states are configured.
+
+When field conditions change, the relevant information needs to reach the responsible personnel through the site’s agreed process. A previously approved record should never be treated as proof that conditions remain unchanged.
+
+NeoEHS Permit to Work software supports digital authorisation workflows. Its application should reflect the plant’s permit rules, responsibilities and verification requirements.
+
+2. Connect observations with accountable responses
+A useful observation includes enough information for another person to understand the concern and respond.
+
+Depending on the situation, that may include:
+
+The equipment or work-area reference.
+
+What was observed and when.
+
+The activity affected.
+
+Supporting photographs, where permitted.
+
+Any immediate response already taken.
+
+The person responsible for reviewing the record.
+
+NeoEHS Inspection Management provides a digital route for inspection records, while NeoEHS Incident Management supports incident and near-miss reporting, investigation and follow-up.
+
+The important connection is between the person raising a concern and the person accountable for addressing it.
+
+3. Connect outgoing and incoming shifts
+Unfinished work does not end when a shift ends.
+
+An incoming team needs to understand relevant restrictions, outstanding concerns and the next required decisions. A structured digital record can support that discussion by making open items easier to review.
+
+A useful handover view should distinguish:
+
+Work still in progress.
+
+Work awaiting a decision.
+
+Conditions that changed during the shift.
+
+Actions requiring follow-up.
+
+Items whose status needs confirmation.
+
+The record supports the handover conversation. It should give the incoming team an opportunity to ask questions and resolve uncertainty. HSE’s shift-handover guidance provides a useful reference for designing that process.
+
+4. Connect maintenance activity with nearby work
+A task may be well planned individually but still require coordination with other activities.
+
+For example, maintenance access, temporary storage and a contractor work area may overlap. A shared view of location and activity can help supervisors identify where further coordination is needed.
+
+This is especially relevant during outages and shutdowns, when the number of people and tasks can change quickly.
+
+A digital system should make the relevant information accessible to the responsible teams. It should not imply that every conflict has been detected automatically.
+
+5. Connect environmental observations with operational follow-up
+A field observation may concern both safety and the environment.
+
+A leak, for example, may require maintenance attention, assessment of worker exposure and environmental follow-up. Separate records can still be necessary, but they should reference the same event where appropriate.
+
+NeoEHS Environmental Management supports environmental records and actions. Linking the relevant information can help teams understand who is handling each part of the response.
+
+A practical example: a condition changes before maintenance
+The following is an illustrative workflow, not a customer case study.
+
+A field team arrives for planned maintenance and finds that temporary equipment is obstructing the agreed access route.
+
+The team follows the site’s established communication and work-control procedures. The observation is recorded against the relevant location and activity, with the time and supporting information.
+
+The responsible supervisor reviews the concern and coordinates with affected personnel. Any required change to the work status is handled through the authorised process.
+
+Once the concern has been addressed, the appropriate person verifies the condition and records the result. If the matter remains open at shift change, it is included in the handover.
+
+The value of digital EHS lies in preserving that chain of information and responsibility—from the original observation to the verified outcome.
+
+“Sent” does not mean “understood”
+A notification can be delivered without being read. A record can be opened without the recipient understanding what action is required.
+
+For significant communications, implementation planning should define the difference between:
+
+Recorded → delivered → acknowledged → reviewed → acted on → verified.
+
+Not every observation needs all six stages. The response should reflect the nature and urgency of the information.
+
+Urgent concerns must follow the plant’s established emergency and operational communication procedures. Employees should not wait for an app notification to be read when immediate communication is required.
+
+Make information freshness visible
+A dashboard can look current while displaying an older record.
+
+Teams need to distinguish when an observation occurred, when it was entered and when it last synchronised. Those times may differ, particularly where connectivity is limited.
+
+Where offline functions are supported, the implementation should explain which activities remain available offline and which require an online connection or direct confirmation.
+
+An unsynchronised inspection record is not confirmation that another team has received it. Similarly, an old permit status should not be presented as a current authorisation.
+
+These details are important when evaluating a mobile EHS system for field use.
+
+Where AI can help
+Within an appropriately configured system, AI can assist with reviewing information—for example, grouping similar observations, identifying recurring themes or drafting summaries for a person to check.
+
+A draft handover summary could help a supervisor locate relevant open records. It should retain links to the source information and make uncertainty visible.
+
+AI-generated summaries may omit context or interpret a report incorrectly. Responsible personnel must review them before using them for operational decisions.
+
+The foundation remains a well-designed digital workflow. Reminders, routing rules and approval steps can be valuable without requiring AI.
+
+Digital EHS and plant control systems have different roles
+Digital EHS manages work-related information, responsibilities and evidence. Distributed control systems, SCADA and safety systems perform separate operational functions.
+
+An EHS status must not be assumed to represent the physical state of equipment.
+
+Where information is exchanged between systems, the integration needs a defined purpose, agreed ownership, appropriate access controls and technical review. A connection should not be assumed merely because both systems contain the same equipment name.
+
+How to assess whether the connection is improving
+Start with one workflow, such as an inspection finding that requires maintenance follow-up.
+
+Ask field and control-room users where information becomes unclear or delayed. Then agree on the records, responsibilities and communication steps needed to improve it.
+
+Useful measures include:
+
+Time from reporting to review.
+
+Priority items awaiting acknowledgement.
+
+Open concerns carried into the next shift without a clear owner.
+
+Actions closed with verification evidence.
+
+Reports that recur after an earlier action was completed.
+
+Review these measures alongside workforce feedback. A faster response is useful only if the information is understood and the response is appropriate.
+
+Frequently asked questions
+What is digital EHS for power plants?
+Digital EHS is software used to manage safety and environmental workflows, including inspections, permits, observations, incidents and corrective actions. It helps teams maintain accessible records and clear responsibility across activities.
+
+Can digital EHS replace radio communication?
+No. It can support records and follow-up, but urgent and safety-critical communication must follow the plant’s established procedures. Direct communication may still be necessary.
+
+Does digital EHS replace DCS or SCADA?
+No. EHS software supports work coordination and oversight. DCS and SCADA serve plant monitoring and control functions. Any integration requires a separately defined scope.
+
+Can field teams use digital EHS without connectivity?
+Some systems support selected offline activities. The supported functions, synchronisation behaviour and restrictions must be confirmed for the implementation. Offline capture does not mean that other teams have received the information.
+
+How can AI support shift handovers?
+AI can help prepare summaries and identify related records where those capabilities are implemented. Supervisors should check the summary against the source records and confirm unresolved items with the incoming team.
+
+What should a power plant digitise first?
+Start with a workflow that has clear ownership and a visible communication problem. Inspection findings, corrective-action follow-up or permit-status visibility can provide a focused starting point.
+
+Build a shared understanding of the work
+Control-room operators and field teams each hold information the other may need.
+
+Digital EHS helps organise that information so people can see what has changed, understand their responsibilities and follow through on outstanding work.
+
+NeoEHS offers EHS solutions for Power & Energy, including workflows relevant to permits, inspections, incidents and action tracking.
+
+Request a NeoEHS demonstration to discuss how these workflows can support communication between your control room and field teams.
+
+Email: info@neoehs.com
+Website: www.neoehs.com
