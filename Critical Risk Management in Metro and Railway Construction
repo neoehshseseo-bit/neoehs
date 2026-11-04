@@ -1,0 +1,136 @@
+The work package was approved yesterday. This morning, the access route has changed, another contractor is working nearby and overnight rain has altered conditions around the excavation.
+
+The paperwork may still be complete. The question for the supervisor is whether the controls still match the work.
+
+Metro and railway construction brings civil engineering, temporary works, lifting, electrical activities and contractor interfaces into a shared space. Where construction meets an operational railway, the consequences of a misunderstanding can extend beyond the worksite.
+
+Critical risk management helps project teams concentrate on the events with the most serious potential consequences—and the controls that must work every time those exposures are present.
+
+What is critical risk management in metro and railway construction?
+Critical risk management in metro and railway construction identifies events that could cause fatal or life-changing harm, defines the controls needed to prevent or limit them, assigns accountable owners and verifies those controls at the worksite. Changes to conditions trigger review, with affected work paused where required controls cannot be confirmed.
+
+Here, a critical control means a measure whose failure or absence would materially increase the likelihood or consequences of a serious event. A hazard list identifies what could cause harm. A critical-control approach also asks what prevents that event, how the measure can fail and what evidence shows it is effective.
+
+Start with the serious event, then identify its controls
+“Lifting risk” is too broad to guide a field decision. A clearer starting point is a defined event, such as a load falling into an occupied area or lifting equipment becoming unstable.
+
+The project team can then consider prevention, consequence reduction and the circumstances that could weaken each control. Not every checklist item deserves the label “critical”. Prioritisation should reflect the event and the importance of the control, supported by competent technical judgement.
+
+A bow-tie review can help organise threats, the loss-of-control event and consequences. Its value comes from the quality of the analysis and verification, not the appearance of the diagram.
+
+Which critical risks deserve attention?
+The following are examples for project planning, not a complete risk assessment or a substitute for engineered work methods.
+
+Work interface	Potential serious event	Control questions for the responsible team
+Work near operational rail	People or equipment exposed to train movements	Are the authorised work limits and protection arrangements understood, current and verified?
+Electrical and buried services	Contact with energised equipment or service strike	Have competent authorised personnel confirmed the relevant boundaries and required precautions?
+Excavations and shafts	Collapse, inundation or a fall into an opening	Do the approved support, access and inspection arrangements still suit current conditions?
+Heavy lifting and segment installation	Dropped load, equipment instability or crushing	Does the approved plan reflect actual ground, equipment, load and work-area conditions?
+Viaducts and temporary works	Fall from height or structural failure	Are the designed protection and support arrangements intact and used within their approved limits?
+Construction traffic and public boundaries	Vehicle collision or public entry into a hazardous area	Are people, plant and public routes effectively separated as the layout changes?
+Tunnels and enclosed work areas	Hazardous atmosphere, fire or impaired escape	Are specialist assessments, monitoring and emergency arrangements appropriate and verified?
+Health exposures such as dust, noise and vibration also need systematic management. A focus on immediate fatal risks should not hide serious harm that develops over time.
+
+Four areas where documented controls can lose effectiveness
+1. The work changes without a corresponding review
+A new access route, different equipment or revised sequence can invalidate earlier assumptions. Define the changes that require review and make them visible to the people authorising and carrying out the work.
+
+A digital timestamp can show when a record was updated. It cannot establish that everyone affected understood the change.
+
+2. Responsibility is split between organisations
+The principal contractor, a specialist subcontractor and the rail operator may each own part of an arrangement. Problems arise when each assumes that another party has verified the interface.
+
+Identify who provides the control, who checks it and who can authorise the next step. Use named responsibilities rather than “contractor to confirm”.
+
+3. Verification checks documents instead of conditions
+A signed plan establishes an approved intention. A field check establishes whether the relevant arrangement is present at the place and time of work.
+
+Verification should be specific enough to identify failure. “Barrier satisfactory” provides less useful evidence than a check against the approved boundary, its condition and any changed access points.
+
+4. A defect closes without a meaningful recheck
+A photograph of a repaired barrier may confirm repair. It does not establish that the revised route is suitable or that another team will not remove it again.
+
+Where findings recur, investigate the work arrangement and verify effectiveness under the conditions that caused the problem.
+
+Build a practical critical-control record
+For each selected serious-event scenario, keep a concise record that answers:
+
+What must be prevented? State the event, activity and affected area.
+Which controls are essential? Identify the measures and their purpose.
+What does acceptable performance look like? Refer to the approved technical criteria and limits.
+Who owns and verifies each control? Distinguish implementation, checking and authorisation.
+When must it be checked? Include planned checks and relevant change triggers.
+What evidence is required? Use suitable field records, competent inspection or other approved evidence.
+What happens if it fails? Define escalation, the affected work restriction and authorised restart requirements.
+Technical limits must come from competent engineering, the operator’s requirements and applicable rules. They should not be generated from a generic AI response.
+
+How NeoEHS can support the process
+NeoEHS is an AI-powered Environment, Health and Safety system. Its Metro and Rail EHS solution brings together risk, permit, inspection, incident and action-management workflows. These capabilities can support the evidence and coordination around critical controls; project-specific configuration must be confirmed.
+
+Connect the assessment with the work package
+Use NeoEHS Risk Management as the starting point for assessing hazards, recording controls and reviewing risk information. For a critical-control implementation, agree the required fields, roles and links before rollout. Do not assume that a generic risk score alone communicates whether an essential control is available.
+
+Keep permit status and supporting evidence visible
+NeoEHS Permit to Work provides digital permit workflows. Teams should evaluate how the configured process references risk assessments, approvals and relevant checks.
+
+An EHS permit record does not itself establish a rail possession, electrical isolation or authority to move trains. Those decisions and confirmations remain with the competent authorised parties under the applicable arrangements.
+
+Capture field checks and manage follow-up
+NeoEHS Inspection Management supports configurable checklists, visual evidence, action ownership and verification. Teams can evaluate these features for recording whether defined controls meet the agreed requirements.
+
+If connectivity is limited, offline capture is useful for retaining evidence. Urgent failures still need an immediate communication route; an unsynchronised record is not an acknowledged warning.
+
+Learn from failures and near misses
+Use NeoEHS Incident Management to support reporting and investigation where a control failure leads to an incident or near miss. Review related findings across work packages so that the response can address a recurring weakness rather than only one location.
+
+Where AI adds value—and where judgement remains essential
+AI-supported analysis can help reviewers examine recurring findings and action history. It may bring a potential pattern to attention, but reviewers must test that interpretation against the original evidence and the actual work.
+
+Where deployed and validated, NeoEHS AI Computer Vision can flag configured visible conditions such as entry into monitored restricted zones. Coverage, lighting and occlusion affect what a camera can observe. A lack of alerts is not confirmation that a critical control is effective.
+
+AI does not certify temporary works, determine ground-bearing capacity, confirm de-energisation or approve a lift. It should support competent decisions with traceable information, not silently replace the people authorised to make them.
+
+A practical example: the access route changes before a planned lift
+Imagine a rail-construction project where a temporary delivery route is revised shortly before a scheduled lift. The new route passes through an area that the lifting team had intended to keep clear.
+
+The useful response is to identify the conflict before the work proceeds. The responsible teams review the route, lifting arrangement and affected work, then confirm the revised controls and brief those involved. A software record can preserve the change, assigned actions and verification evidence.
+
+When the conflict is resolved, restart follows the project’s authorisation process. Closing a digital action is not, by itself, permission to resume.
+
+This is an illustrative scenario, not a customer case study or a claim of measured NeoEHS results.
+
+Use technical guidance with the correct scope
+UK HSE guidance on lifting operations emphasises competent planning and supervision. Its excavation guidance addresses ground conditions, services and competent inspection, while its temporary-works guidance explains the need to plan and manage engineered support and access arrangements.
+
+The UK Office of Rail and Road’s electrical safety guidance highlights the danger of equipment believed to be dead that remains live. These references inform the discussion; they are not a universal legal specification. Each project must apply its jurisdiction’s requirements, operator rules and approved engineering procedures.
+
+Measure control performance rather than paperwork volume
+A practical review can track failed critical-control checks, overdue verification, time from failure to acknowledgement, repeated defects and changes awaiting reassessment. Review these alongside the work exposure and inspection coverage.
+
+Define the denominator and period. Ten failed checks among a thousand verified controls means something different from ten failures where only a small sample was checked. A rising count may also reflect better reporting.
+
+Keep severe failures visible individually. Averaging them into a reassuring overall score can obscure the decision a supervisor needs to make.
+
+Frequently asked questions
+How is critical risk management different from a general risk assessment?
+A general assessment identifies and evaluates hazards. Critical risk management adds focused ownership and verification of the controls that prevent or limit the most serious events. It complements the wider assessment.
+
+What makes a control critical?
+Its failure or absence would materially increase the likelihood or consequences of a defined serious event. The decision requires competent analysis of the scenario and its controls.
+
+Can NeoEHS authorise work on an operational railway?
+NeoEHS can support configured records and workflows. Railway access, protection, isolation and work authorisation remain subject to the operator’s approved arrangements and authorised personnel.
+
+When should controls be reviewed?
+Use the project’s required review schedule and change triggers, including altered conditions, equipment, sequences, work boundaries, reported failures or relevant incidents.
+
+Can AI confirm that a critical control is effective?
+AI can support evidence review and selected monitoring. It cannot replace the required field verification, engineering assurance or authorised decisions.
+
+Where should a project team start?
+Choose one significant activity, define its serious-event scenarios and essential controls, assign owners and agree verification evidence. Test the workflow with the people who perform and authorise the work before expanding it.
+
+Make the next work decision clearer
+At the workface, the question is practical: which controls must be effective now, and who has confirmed them?
+
+Explore NeoEHS for Metro and Rail and request a demonstration using a representative construction work package. For the broader project context, read Digital EHS Management for Metro and Railway Projects.
