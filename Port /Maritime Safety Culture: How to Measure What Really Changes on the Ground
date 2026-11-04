@@ -1,0 +1,172 @@
+What is Port / Maritime safety culture?
+Port / Maritime safety culture is the shared pattern of priorities, expectations and everyday decisions that influences how people manage safety across terminals, berths, vessels and supporting activities. It is reflected in how concerns are raised, how operational pressure is handled, and whether agreed controls remain effective in practice.
+
+The UK Health and Safety Executive highlights management behaviour, worker involvement, communication and organisational learning as important influences on safety culture. Its guidance also distinguishes a safety-climate survey—a snapshot of perceptions—from the wider culture that develops over time. Read HSE’s organisational culture guidance. HSE
+
+How can safety culture be measured?
+
+Measure Port / Maritime safety culture by combining confidential worker feedback, observation of actual work, and evidence of management response. Track reporting confidence, acknowledgement times, recurring hazards and verified corrective actions. Compare results across similar activities and shifts over time, accounting for workload, workforce changes and reporting participation.
+
+No single score provides a complete answer. A useful assessment checks whether different sources of evidence tell a consistent story.
+
+Why incident numbers alone are insufficient
+
+An incident rate describes recorded outcomes. It does not explain everything that happened before them.
+
+A terminal may record few injuries while workers remain reluctant to report concerns. Another may receive more near-miss reports because supervisors have improved their response and workers now expect their concerns to be taken seriously.
+
+Neither situation can be understood from the count alone.
+
+Ask what changed alongside the figures:
+
+Did cargo volumes or working hours increase?
+Were additional contractors brought onto the site?
+Did the reporting process become easier?
+Did the definition of a near miss change?
+Are all shifts represented in the records?
+Were there changes in leadership or operational arrangements?
+A reduction in reporting should prompt questions, just as an increase should.
+
+Three kinds of evidence to bring together
+
+Worker experience
+
+Find out whether people believe they can raise a concern, question an instruction or stop work through the approved process without unfair consequences.
+
+Include permanent employees, contractors, temporary workers and relevant workforce representatives. Where practical, give workers ways to contribute without their immediate supervisor present.
+
+OSHA’s guidance on worker participation supports involving workers throughout programme design, implementation and evaluation, including contractor and temporary personnel. It also emphasises removing barriers to reporting. This is a useful management reference; local requirements must be assessed separately. Read the worker participation guidance. Occupational Safety and Health Administration
+
+Management response
+
+Examine what happens after someone raises a concern.
+
+Who acknowledges it? Who assesses its urgency? Is an action owner assigned? Are temporary arrangements explained? Does the person who reported it receive an update?
+
+A system that collects reports without visible follow-up can undermine confidence in the reporting process.
+
+Workplace evidence
+
+Check whether the agreed response works during the activity that created the concern.
+
+A clear walkway photographed during a quiet period does not establish that pedestrian separation remains effective during a busy cargo operation.
+
+Verification should reflect the location, task and operating conditions involved.
+
+A practical measurement framework
+
+The following framework is an editorial starting point for a local assessment. It is not a validated psychometric instrument or an industry certification.
+
+Area	Suggested measure	What to examine alongside it
+Speaking up	Percentage of valid survey respondents who feel comfortable raising concerns	Response rate, workforce coverage and differences between groups
+Initial response	Median time from report submission to human acknowledgement, grouped by urgency	Unacknowledged reports and any delay between the event and submission
+Worker feedback	Percentage of eligible reports receiving a documented update within the agreed timeframe	Whether workers understood the update and could ask questions
+Action effectiveness	Percentage of actions due for an effectiveness check that passed that check	Failed checks, missed checks and the quality of verification
+Recurrence	Repeat findings concerning the same hazard, location or activity within a defined period	Changes in exposure, inspection frequency and reporting effort
+Leadership follow-through	Percentage of safety commitments due in the period completed with supporting evidence	Whether the commitments addressed workers’ actual concerns
+Define the calculation before publishing the result.
+
+For example:
+
+Effectiveness-check pass rate = actions that passed the required effectiveness check ÷ all actions due for that check in the period × 100.
+
+Show missed and failed checks separately. Excluding overdue checks from the denominator can make the result look better without improving conditions.
+
+An acknowledgement also needs a clear definition. An automatic confirmation that a form was received is different from a responsible person reviewing the concern.
+
+Questions worth asking the workforce
+
+A short, well-explained questionnaire can start a useful conversation. Example statements include:
+
+I can raise a safety concern without fear of unfair treatment.
+My supervisor responds constructively when work conditions change.
+I receive feedback after reporting a concern.
+The procedures available to me reflect the work I actually perform.
+Contractors and employees can both raise concerns.
+When production and safety requirements conflict, I understand how to escalate the issue.
+Use consistent response options and include “not applicable” where appropriate.
+
+These example questions are discussion prompts, not a validated survey. Where a formal assessment is required, select an appropriate established instrument and obtain competent support for administration and interpretation.
+
+Explain confidentiality arrangements before collecting responses. Small groups, detailed job descriptions and free-text comments can make individuals identifiable even when names are removed. Avoid reporting small-group results in ways that expose respondents.
+
+Keep the process simple at the workplace
+
+Workers should not need to become data analysts to contribute to safety improvement.
+
+A useful frontline process answers a few practical questions:
+
+What did you notice? Where did it happen? What work was underway? Was an immediate response needed? Who needs to know?
+
+The analysis can happen later, with the relevant people and context.
+
+For Port / Maritime teams working across languages, shifts and employers, test the wording with the people expected to use it. A technically precise question is of little value if workers interpret it differently.
+
+Keep urgent communication separate from routine data capture. Submitting a digital report must not delay the site’s immediate response or escalation process.
+
+Practical Port / Maritime use cases
+
+The following examples are illustrative, not NeoEHS customer results.
+
+Situation	What to investigate	Evidence of meaningful improvement
+Pedestrian barriers are repeatedly moved during busy operations	Whether the layout, delivery arrangements or work sequence contributes to the problem	Revised arrangements remain effective during representative operating periods
+Mooring teams raise similar concerns without receiving updates	Whether responsibility is clear across the relevant teams	Concerns receive competent review, agreed actions and feedback to those affected
+Contractors report fewer concerns than direct employees	Whether access, language, supervision or fear of consequences discourages participation	Contractors understand the process and can describe how their concerns were handled
+A maintenance finding returns after closure	Whether the action addressed the underlying problem	Follow-up during the relevant task confirms the change is effective
+Incoming shifts discover unresolved issues late	Whether handover records and conversations communicate outstanding conditions	Incoming personnel can identify the concern, current controls and responsible owner
+The strongest evidence usually combines a record with a conversation and an observation.
+
+How NeoEHS can support the assessment
+
+NeoEHS’s Port / Maritime solution provides a relevant platform for connecting operational HSE information. Its value in this context is helping teams follow concerns from reporting through review, action and verification. NeoEHS
+
+Three supporting workflows are particularly relevant:
+
+Incident Management supports reporting, investigations, corrective-action tracking and analysis of recurring events.
+Inspection Management supports field findings, evidence capture and verification workflows.
+Audit Management supports planned assessments, findings and corrective-action follow-up. NeoEHS
+For a safety-culture initiative, define the questions first and then configure the information needed to answer them. Confirm survey functionality, confidentiality controls, reporting options and integrations against the proposed deployment.
+
+Software can organise evidence. Leaders and operational teams still need to listen, investigate, resource improvements and verify the outcome.
+
+Where AI can add value
+
+AI-assisted review may help identify related concerns written in different words, prepare summaries for human review, or surface recurring themes across large volumes of records.
+
+For example, “barrier moved,” “pedestrian route blocked” and “walking through vehicle area” may describe a related operational problem. They may also describe different situations. A reviewer needs the underlying records to decide.
+
+A useful AI output should make its supporting evidence accessible and allow corrections. Review missed patterns as well as incorrect suggestions.
+
+Do not treat AI-generated sentiment as a direct measure of trust, or use a software-generated culture score to rank individual workers. Language, reporting habits and missing context can distort the interpretation.
+
+Compare fairly across locations
+
+A container terminal, a bulk-handling facility and a passenger operation do not have identical work patterns.
+
+Even within one organisation, reporting practices can differ by shift, contractor, language or supervisor. Comparisons should account for those differences.
+
+Begin with each location’s own baseline. Use consistent definitions and document changes in workload, workforce composition and assessment methods.
+
+Where results differ, investigate the context before assigning a ranking. The purpose is to identify useful improvements and transferable lessons.
+
+A practical 90-day starting plan
+
+Period	Focus	Expected output
+Days 1–15	Define scope with operations, HSE and workforce representatives	Agreed questions, confidentiality arrangements and measures
+Days 16–30	Establish a baseline through records, conversations and field observations	A documented starting picture with known limitations
+Days 31–60	Address a small number of priority concerns	Assigned actions, visible feedback and implementation evidence
+Days 61–90	Check effectiveness and report back to the workforce	Findings on what worked, what did not and what needs further attention
+Ninety days can test whether the assessment and response process works. It should not be presented as proof that an organisation’s culture has permanently changed.
+
+Review progress over a longer period and during different operating conditions. OSHA’s programme-evaluation guidance supports monitoring implementation, involving workers and adjusting the programme when weaknesses are identified. Read the evaluation guidance. Occupational Safety and Health Administration
+
+What meaningful change looks like
+
+A worker can explain what happened after raising a concern. A supervisor can describe how an operational conflict was resolved. An incoming shift understands what remains outstanding. A manager can show that a recurring problem was investigated and that the resulting change held up during real work.
+
+Those are useful signs to look for.
+
+To explore the supporting digital workflow, bring one representative concern to a NeoEHS Port / Maritime demonstration. Follow it from initial report to verified improvement, including feedback to the workforce.
+
+Contact: info@neoehs.com
+Website: www.neoehs.com
