@@ -1,0 +1,155 @@
+What is digital HIRARC with AI?
+Digital HIRARC uses software to manage Hazard Identification, Risk Assessment and Risk Control. AI can help surface recurring hazards and patterns in safety records, while people validate findings and decide controls. NeoEHS connects these activities with inspections, incidents, corrective actions and permit workflows to support ongoing risk management.
+
+The real test of HIRARC happens after approval
+A risk assessment may be complete, signed and neatly filed. Then a delivery route changes, a machine guard is removed for maintenance, or a contractor starts work beside an operating production line.
+
+The document has not changed. The exposure has.
+
+For an HSE manager, the difficult question is often not whether a HIRARC exists. It is whether the assessment still describes the work being done today—and whether the controls listed in it actually work.
+
+NeoEHS, an AI-powered Environment, Health and Safety platform, supports a more connected approach. Its Malaysia risk assessment software brings assessment records, review workflows and related safety information into one operational process. The value comes from making the next decision easier: who needs to act, what evidence is missing, and what requires another look.
+
+What does HIRARC cover?
+HIRARC stands for Hazard Identification, Risk Assessment and Risk Control. A hazard is a source or situation with the potential to cause harm. Risk assessment considers how harm could occur and how serious it could be. Risk control addresses what must change to eliminate or reduce that exposure.
+
+Malaysia’s DOSH HIRARC Guidelines, 2008 describe a process of classifying activities, identifying hazards, assessing risks and deciding controls. Worker consultation is an important part of that process.
+
+The legal context also matters. Section 18B of the Occupational Safety and Health Act 1994, updated text as at 1 June 2024 places risk-assessment duties on employers, self-employed persons and principals, and requires implementation of controls where the assessment indicates they are needed. Software can support the records and workflow; responsibility for assessing and controlling workplace risks remains with the relevant duty holders.
+
+What changes when HIRARC becomes digital?
+The most useful change is traceability. A supervisor should be able to move from an identified hazard to its assessment, action owner, supporting evidence and latest review without searching through separate files.
+
+Practical question	A connected digital workflow should make visible
+Which assessment applies here?	The task, location, equipment and current approved version
+Why was this rating selected?	The assessor’s reasoning and supporting evidence
+Has the control been installed?	Completion evidence and a named verifier
+Does the control work?	Follow-up observations, inspections or other suitable checks
+What changed since approval?	New findings, incidents, task changes and review records
+Digitizing an old form without addressing these questions can simply move the same gaps onto a screen.
+
+A practical NeoEHS HIRARC workflow
+NeoEHS publishes capabilities for configurable risk matrices, action tracking, hazard reporting and digital approvals across its risk and safety modules. The following is a recommended implementation pattern using those capabilities. Approval gates, record relationships and AI functions should be agreed and tested for each deployment.
+
+1. Define the activity before listing hazards
+Start with a task that a worker recognises. “Warehouse operations” is too broad for a useful discussion. “Reversing a forklift into the loading bay while pedestrians access the packing area” gives the team something specific to assess.
+
+Record the location, people exposed, equipment, routine or non-routine conditions, and nearby activities. Include operators and maintenance personnel in the discussion. Their knowledge often reveals the workaround that a procedure does not mention.
+
+2. Capture hazards with context
+Use NeoEHS Hazard Management to record the condition, location and relevant evidence. Describe the event that could cause harm rather than entering a broad label such as “mechanical hazard.”
+
+For example: “A pedestrian can enter the forklift reversing area through an unprotected opening beside the packing station.” A photograph may support this report, but it will not explain every movement, shift condition or equipment failure mode. The assessor still needs to investigate.
+
+3. Assess risk and keep the reasoning
+NeoEHS Risk Management supports configurable matrices and likelihood-and-severity assessment. Agree the rating definitions before users begin scoring.
+
+Keep the rating and the reason together. What exposure was considered? Which controls were already in place? What evidence supports the likelihood selected?
+
+The DOSH guideline’s example matrix calculates risk as Likelihood × Severity, with bands of 1–4 low, 5–12 medium and 15–25 high. Those bands belong to that example method; the organisation should configure and approve the method applicable to its work.
+
+A risk score is a prioritisation tool, not a measured probability that an accident will occur. Nor should a lower total hide a credible fatal consequence or a failed critical control.
+
+4. Turn proposed controls into owned actions
+Consider elimination, substitution and engineering measures before relying on administrative measures and PPE. A proposed control needs more detail than “provide training.”
+
+For the loading-bay example, the action might be to redesign pedestrian access and install suitable physical separation. Specify the responsible person, completion date, interim arrangements and verification required. These details make the control actionable.
+
+The workflow should distinguish proposed, implemented and verified effective. A purchase order or a closed task does not, by itself, demonstrate that exposure has been controlled.
+
+5. Review the assessment and authorise the work
+Route the assessment through the organisation’s defined review and approval roles. Where work requires a permit, use NeoEHS Permit to Work to support the relevant authorisation, isolation checks and worksite verification.
+
+During implementation, test how the current assessment is referenced in the permit process and what happens if the task changes. An approved HIRARC should never be treated as an unconditional instruction to proceed regardless of conditions.
+
+6. Verify controls in the field
+Use NeoEHS Inspection Management to support follow-up checks and evidence collection. Ask whether the control is present, suitable and being used during the actual task.
+
+For a physical barrier, a useful check may include its location, pedestrian access points, condition and how deliveries are handled. “Barrier installed” is a weaker conclusion than a documented check that the separation works during operations.
+
+Only reassess the remaining risk after the relevant controls have been implemented and evaluated. Do not lower a rating simply because an action has been assigned.
+
+7. Review again when the evidence changes
+NeoEHS Incident Management supports reporting, investigation and corrective actions. A near miss or repeated finding should prompt the team to examine whether the associated assessment still makes sense.
+
+Recommended review triggers include a changed process, different equipment, new chemical, altered layout, contractor interface, incident or failed control. Define how each trigger reaches the assessment owner and how revised instructions reach affected workers.
+
+Where artificial intelligence adds practical value
+AI is most useful when it helps a team find something relevant in a large body of information. NeoEHS describes predictive analytics that brings together safety data to identify patterns and areas needing attention.
+
+For HIRARC, useful questions include: Are several reports describing the same access problem in different words? Have similar maintenance tasks generated repeated isolation findings? Is a hazard recurring after actions were marked complete?
+
+These are investigation leads. They are not proof that a particular event will happen or that a proposed control is sufficient.
+
+For any configured AI-assisted review, good operating practice is to retain the records behind the suggestion, allow a reviewer to accept or reject it, and record the decision. Keep AI recommendations separate from approved assessment content until a responsible person has reviewed them.
+
+Rules and AI also serve different purposes. Calculating a matrix score or sending an overdue reminder can follow a fixed rule. Finding similar narratives across hundreds of reports may benefit from AI. Both can be useful without describing every automated step as intelligence.
+
+Computer vision may add observations for validated use cases, but a camera cannot establish that an assessment is complete. Coverage, lighting, occlusion and non-visible hazards limit what it can reveal.
+
+Worked example: a repeated loading-bay near miss
+Consider an illustrative manufacturing site—not a reported NeoEHS customer outcome. Three reports describe pedestrians entering a forklift route. Each report uses different wording, and the existing assessment lists floor markings and high-visibility clothing.
+
+An AI-assisted review could flag the narratives as related, subject to the configured capability and data quality. The safety team then checks the source reports and observes the loading operation.
+
+Stage	Example decision or evidence
+Hazard	Pedestrian access into a reversing forklift route
+Credible harm	A person being struck or crushed
+Existing measures	Floor markings, signs and high-visibility clothing
+Assessor’s illustrative rating	Likelihood 4 × Severity 4 = 16
+Proposed improvement	Evaluate removal of the crossing and suitable physical segregation
+Verification	Observe deliveries and pedestrian access after the change
+Reassessment	Record justified residual ratings after verification; retain the potential consequence unless evidence supports changing it
+Further review trigger	Barrier damage, route change or another related near miss
+The numbers illustrate the method and are not a site assessment. The important decision is whether people and vehicles remain exposed to each other, not whether a dashboard changes colour.
+
+Practical industry use cases
+These are application examples, not customer case studies or complete safe-work instructions.
+
+Industry	Activity and hazard	Useful HIRARC workflow focus
+Manufacturing	Clearing a production-line blockage; unexpected movement	Task-specific assessment, isolation arrangements and restart verification
+Ports & Maritime	Cargo handling; moving equipment and suspended loads	Interfaces between crews, exclusion arrangements and changed loading conditions
+Construction	Work at height; changing edges and access	Current workfront assessment, suitable protection and permit checks
+Metro & Rail	Work beside operational rail; train movement	Work boundaries, access authority and coordination with railway operating arrangements
+Power Plants	Shutdown maintenance; electrical and stored energy	Equipment-specific isolation, contractor interfaces and handover records
+Mining	Haul-road operations; mobile equipment interaction	Route conditions, traffic separation and reassessment after operational changes
+What should leaders see on a HIRARC dashboard?
+Counts of completed assessments are useful, but they say little about whether exposure is controlled. A more useful management review asks about unresolved risk and the quality of verification.
+
+Recommended measures include overdue controls for high-risk activities, critical controls awaiting verification, recurring hazards after closure, and assessments awaiting review following a change. Show both the count and a meaningful denominator—for example, assessments awaiting review out of assessments affected by a recorded process change.
+
+Keep proposed residual ratings separate from ratings supported by completed verification. Show the last field-check date and data gaps. An empty incident history is not evidence that an activity is safe.
+
+Start with one process and prove the workflow
+Choose a defined work area or recurring high-risk task. Review the current HIRARC with the people doing the work, agree the matrix and approval roles, then connect findings, actions and verification records.
+
+Test the awkward cases: an overdue control, a rejected AI suggestion, a changed task and a repeat near miss. Confirm that the right person receives the issue and that the assessment can be revised without losing its history.
+
+This gives the organisation a practical basis for expanding digital HIRARC across sites.
+
+Want to see how this would work with your own assessment process? Request a NeoEHS demonstration using one real task, its current controls and the evidence your team needs before approving work.
+
+Frequently asked questions
+What is digital HIRARC?
+Digital HIRARC uses software to record hazards, assess risks, assign controls and maintain review records. Its value is connecting the assessment to the people, actions and evidence needed to manage workplace exposure.
+
+How can AI support HIRARC?
+AI can help identify related reports and recurring patterns in safety data. Its findings need review against the original records and actual work conditions before they influence an approved assessment.
+
+Can NeoEHS support HIRARC in Malaysia?
+NeoEHS publishes support for configurable risk assessment and HIRARC alongside related safety workflows. Organisations should confirm the required matrix, approvals, integrations and evidence requirements during implementation.
+
+Can AI approve a risk assessment on its own?
+AI should support the assessment team. Responsible people should validate hazards, decide appropriate controls and approve the assessment under the organisation’s procedures.
+
+How is a HIRARC risk score calculated?
+The example method in Malaysia’s DOSH HIRARC Guidelines uses likelihood multiplied by severity. The organisation should apply defined rating criteria consistently and retain the reasoning behind each rating.
+
+When should a digital HIRARC be reviewed?
+Set planned reviews and additional triggers for changed work, incidents, new findings or evidence that controls are ineffective. The review should consider the task as it is currently performed.
+
+Does HIRARC software guarantee legal compliance?
+No. Software supports documentation and follow-up. Applicable duties still require suitable assessment, implementation of necessary controls and appropriate workplace management by the responsible parties.
+
+Is HIRARC the same as a permit to work?
+No. HIRARC identifies hazards, evaluates risk and determines controls. A permit to work authorises specified work under defined conditions. The two processes should inform each other where relevant.
